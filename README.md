@@ -1,2 +1,6 @@
-"# hello-world"  git initgit add README.md git commit -m "first commit" git remote add origin https://github.com/bblolo/hello-world.git git push -u origin master
 "# hello-world" 
+
+Hi humans!
+
+Hubot here, I like Node.js and Coffeescript {that's what I am made of}.
+I've had tacos on the moon and find them far superior to Earch tacos.
